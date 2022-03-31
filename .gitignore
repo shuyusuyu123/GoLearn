@@ -17,5 +17,6 @@
 
 *.mod
 
+.idea
 bin/
 pkg/
